@@ -1,6 +1,6 @@
 Hi, I’m Nico
 
-Just playing with some simple web basics to learn the proper way of coding websites.
+Just playing trying to learn stuff here.
 
 
 <!---
